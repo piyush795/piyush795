@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Piyush!
-- 👀 I’m interested in learning and advancing my technical knowledge
-- 🌱 I’m currently learning iOS development as to get my potential into the iOS industry.
+Hi, I’m Piyush!
+I’m interested in learning and advancing my technical knowledge
+I’m currently learning iOS development as to get my potential into the iOS industry.
 
 
 <!---
